@@ -1,4 +1,4 @@
-# java 知乎爬虫
+# java 知乎爬虫 爬取用户信息
 ## 技术架构
 1. webmagic     爬取页面内容，对url进行处理，定制spider
 2. spring boot    快速开发spring应用程序的微服务框架
