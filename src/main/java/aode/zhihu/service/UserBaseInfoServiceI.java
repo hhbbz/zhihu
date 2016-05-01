@@ -1,4 +1,4 @@
-package aode.zhihu.serviceI;
+package aode.zhihu.service;
 
 
 public interface UserBaseInfoServiceI {

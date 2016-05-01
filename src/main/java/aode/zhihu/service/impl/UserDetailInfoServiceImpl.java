@@ -1,4 +1,4 @@
-package aode.zhihu.serviceI.impl;
+package aode.zhihu.service.impl;
 
 import aode.zhihu.mapping.UserDetailInfoMapper;
 import aode.zhihu.model.UserDetailInfo;

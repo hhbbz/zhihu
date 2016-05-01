@@ -1,11 +1,11 @@
-package aode.zhihu.serviceI.impl;
+package aode.zhihu.service.impl;
 
 import aode.zhihu.model.UserBaseInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import aode.zhihu.mapping.UserBaseInfoMapper;
-import aode.zhihu.serviceI.UserBaseInfoServiceI;
+import aode.zhihu.service.UserBaseInfoServiceI;
 @Service
 public class UserBaseInfoServiceImpl implements UserBaseInfoServiceI {
 
